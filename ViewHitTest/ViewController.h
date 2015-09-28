@@ -13,3 +13,7 @@
 
 @end
 
+
+@interface MyView : UIView
+
+@end
